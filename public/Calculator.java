@@ -10,6 +10,13 @@ public void subtract(){
 	int b = 2;
 	int result = a -b;
 }
+
+public void multiply(){
+	int a = 9;
+	int b = 5;
+
+	int result = a * b;
+}
 public static void main(String[] args){
 
 }
